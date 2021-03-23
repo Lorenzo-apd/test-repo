@@ -1,6 +1,6 @@
 ### Test title ###
 
-hello this is text for a test
+hello this is text
 
 *italic*
 
